@@ -1,1 +1,1 @@
-# Git-LernrnigSprint
+# Git-Learning-Sprints
